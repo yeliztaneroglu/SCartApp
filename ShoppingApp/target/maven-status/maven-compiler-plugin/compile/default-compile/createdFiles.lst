@@ -1,0 +1,10 @@
+com/trendyol/model/Category.class
+com/trendyol/model/discount/Coupon.class
+com/trendyol/model/event/ShoppingCart.class
+com/trendyol/Main.class
+com/trendyol/model/event/Event.class
+com/trendyol/model/Delivery.class
+com/trendyol/model/discount/Campaign.class
+com/trendyol/util/DiscountType.class
+com/trendyol/model/discount/ShoppingCartDiscount.class
+com/trendyol/model/Product.class

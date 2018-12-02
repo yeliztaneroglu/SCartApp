@@ -1,0 +1,10 @@
+/home/yeliz/ShoppingApp/src/main/java/com/trendyol/model/Product.java
+/home/yeliz/ShoppingApp/src/main/java/com/trendyol/Main.java
+/home/yeliz/ShoppingApp/src/main/java/com/trendyol/model/event/Event.java
+/home/yeliz/ShoppingApp/src/main/java/com/trendyol/model/discount/ShoppingCartDiscount.java
+/home/yeliz/ShoppingApp/src/main/java/com/trendyol/model/event/ShoppingCart.java
+/home/yeliz/ShoppingApp/src/main/java/com/trendyol/model/discount/Campaign.java
+/home/yeliz/ShoppingApp/src/main/java/com/trendyol/model/discount/Coupon.java
+/home/yeliz/ShoppingApp/src/main/java/com/trendyol/util/DiscountType.java
+/home/yeliz/ShoppingApp/src/main/java/com/trendyol/model/Delivery.java
+/home/yeliz/ShoppingApp/src/main/java/com/trendyol/model/Category.java
